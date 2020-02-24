@@ -1,6 +1,6 @@
-#CrediWatch
+# CrediWatch
 
-##Architecture Overview
+## Architecture Overview
 
 ```buildoutcfg
                                              User interface makes
